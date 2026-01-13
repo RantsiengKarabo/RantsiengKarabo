@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Home Lab</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practicesgs)
+- <b>Enterprise Vulnerability Assessment Lab</b>
+  - [Enterprise Vulnerability Assessment Lab](https://github.com/RantsiengKarabo/enterprise-vulnerability-assessment-lab)
 
 <h2> Certifications</h2>
 
